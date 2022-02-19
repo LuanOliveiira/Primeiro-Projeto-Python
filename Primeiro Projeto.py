@@ -1,5 +1,5 @@
 #Baseado em dados da covid19 do ano de 2020
-#Formação gráfica em destaques a cidades, geração de gráficos visuais e um qr
+#Formação gráfica , geração de gráficos visuais e qr
 
 
 url = 'https://api.covid19api.com/dayone/country/brazil'
