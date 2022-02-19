@@ -36,7 +36,7 @@ print(dt.datetime(2020, 4, 25,12, 6, 21, 7), 'Ano-mês-dia Hora:minuto:segundo.m
 natal = dt.date(2020, 12, 25)
 reveillon = dt.date(2021, 1, 1)
 
-print(reveillon - natal)
+print((reveillon - natal)
 print((reveillon -natal).days)
 print((reveillon - natal).seconds)
 print((reveillon - natal).microseconds)
